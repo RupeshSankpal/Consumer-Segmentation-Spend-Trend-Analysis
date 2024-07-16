@@ -73,3 +73,5 @@ The dashboard visualizations include:
 3. Expense Type Breakdown: A tree map visualizing the distribution of expenses across different categories.
 4. Monthly Trends: A line graph showing monthly transaction amounts.
 5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
+
+![image](https://github.com/user-attachments/assets/b437d64b-7458-4d04-902b-d0b908df36e8)
