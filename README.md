@@ -52,7 +52,7 @@ Explore the data models and visualizations.
 The Credit Card Spending Habits Dashboard offers a comprehensive overview of spending metrics, allowing users to quickly grasp key insights. The main components of the dashboard include:
 
 ## City-wise Spending: Visualize spending patterns across various cities.
-> Monthly Trends: Line graphs depicting spending variations over time.
+- **Monthly Trends:** Line graphs depicting spending variations over time.
 > Card Type Analysis: Dynamic visuals showing transaction distribution by credit card type.
 > Expense Type Breakdown: Charts illustrating the distribution of various expense types.
 > Gender Comparison: Compare spending habits between genders.
