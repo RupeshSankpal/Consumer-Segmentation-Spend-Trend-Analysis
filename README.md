@@ -1,6 +1,6 @@
 # Credit-Card-Spending-Habits-in-India
 
-#Table of Contents
+# Table of Contents
 Introduction
 Purpose
 Key Features
@@ -10,24 +10,26 @@ Dashboard Overview
 Data Sources
 Visualizations
 
-#Introduction
+# Introduction
 Welcome to the Credit Card Spending Habits in India Documentation. This Power BI dashboard provides insights into credit card transactions made in India, offering a comprehensive look at the spending habits of Indians across the nation.
 
-#Purpose
+# Purpose
 The purpose of this Credit Card Spending Habits Dashboard is to:
 
 Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
 Analyze Temporal Trends: Utilize line graphs to showcase spending trends over various time periods.
 Demographic Insights: Provide insights into spending habits based on gender.
 Expense Type Analysis: Visualize the distribution of different types of expenses.
-Key Features
+
+# Key Features
 City-wise Spending: Analyze the total spending in each city.
 Monthly Trends: Observe spending trends over time.
 Card Type Analysis: Understand the distribution of transactions by different credit card types.
 Expense Type Breakdown: Examine how spending is distributed across various expense categories.
 Gender Comparison: Compare spending habits between male and female cardholders.
 High-Value Transactions: Identify transactions above a certain amount threshold.
-Technology Stack
+
+# Technology Stack
 The following technologies were used to build this project:
 
 Power BI: The primary tool for creating interactive dashboards.
@@ -53,13 +55,15 @@ Card Type Analysis: Dynamic visuals showing transaction distribution by credit c
 Expense Type Breakdown: Charts illustrating the distribution of various expense types.
 Gender Comparison: Compare spending habits between genders.
 High-Value Transactions: Identify and analyze high-value transactions.
-Data Sources
+
+# Data Sources
 The Credit Card Spending Habits Dashboard project utilizes the following data sources:
 
 Transaction Data: Contains information about each credit card transaction, including city, date, card type, expense type, gender, and amount.
 Geographical Data: Provides information on cities for spatial analysis.
 Demographic Data: Stores data related to the gender of cardholders.
-Visualizations
+
+# Visualizations
 The dashboard visualizations include:
 
 Transaction Amount by Gender: A bar chart displaying the transaction amount split by gender.
