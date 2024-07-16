@@ -53,17 +53,17 @@ The Credit Card Spending Habits Dashboard offers a comprehensive overview of spe
 
 ## City-wise Spending: Visualize spending patterns across various cities.
 - **Monthly Trends:** Line graphs depicting spending variations over time.
-> Card Type Analysis: Dynamic visuals showing transaction distribution by credit card type.
-> Expense Type Breakdown: Charts illustrating the distribution of various expense types.
-> Gender Comparison: Compare spending habits between genders.
-> High-Value Transactions: Identify and analyze high-value transactions.
+- **Card Type Analysis:** Dynamic visuals showing transaction distribution by credit card type.
+- **Expense Type Breakdown:** Charts illustrating the distribution of various expense types.
+- **Gender Comparison:** Compare spending habits between genders.
+- **High-Value Transactions:** Identify and analyze high-value transactions.
 
 # Data Sources
 The Credit Card Spending Habits Dashboard project utilizes the following data sources:
 
-> Transaction Data: Contains information about each credit card transaction, including city, date, card type, expense type, gender, and amount.
-> Geographical Data: Provides information on cities for spatial analysis.
-> Demographic Data: Stores data related to the gender of cardholders.
+- **Transaction Data:** Contains information about each credit card transaction, including city, date, card type, expense type, gender, and amount.
+- **Geographical Data:** Provides information on cities for spatial analysis.
+- **Demographic Data:** Stores data related to the gender of cardholders.
 
 # Visualizations
 The dashboard visualizations include:
