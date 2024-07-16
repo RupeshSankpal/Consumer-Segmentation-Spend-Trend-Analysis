@@ -1,6 +1,6 @@
 # Credit-Card-Spending-Habits-in-India
 
-Table of Contents
+#Table of Contents
 Introduction
 Purpose
 Key Features
@@ -9,10 +9,11 @@ Getting Started
 Dashboard Overview
 Data Sources
 Visualizations
-Introduction
+
+#Introduction
 Welcome to the Credit Card Spending Habits in India Documentation. This Power BI dashboard provides insights into credit card transactions made in India, offering a comprehensive look at the spending habits of Indians across the nation.
 
-Purpose
+#Purpose
 The purpose of this Credit Card Spending Habits Dashboard is to:
 
 Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
