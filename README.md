@@ -75,5 +75,3 @@ The dashboard visualizations include:
 5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
 
 ![image](https://github.com/user-attachments/assets/a5be6c40-f32b-4211-ba66-8c73e9641b10)
-
-![image](https://github.com/user-attachments/assets/b437d64b-7458-4d04-902b-d0b908df36e8)
