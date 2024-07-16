@@ -16,18 +16,18 @@ Welcome to the Credit Card Spending Habits in India Documentation. This Power BI
 # Purpose
 The purpose of this Credit Card Spending Habits Dashboard is to:
 
-## Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
-Analyze Temporal Trends: Utilize line graphs to showcase spending trends over various time periods.
-Demographic Insights: Provide insights into spending habits based on gender.
-Expense Type Analysis: Visualize the distribution of different types of expenses.
+1. Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
+2. Analyze Temporal Trends: Utilize line graphs to showcase spending trends over various time periods.
+3. Demographic Insights: Provide insights into spending habits based on gender.
+4. Expense Type Analysis: Visualize the distribution of different types of expenses.
 
 # Key Features
-City-wise Spending: Analyze the total spending in each city.
-Monthly Trends: Observe spending trends over time.
-Card Type Analysis: Understand the distribution of transactions by different credit card types.
-Expense Type Breakdown: Examine how spending is distributed across various expense categories.
-Gender Comparison: Compare spending habits between male and female cardholders.
-High-Value Transactions: Identify transactions above a certain amount threshold.
+1. City-wise Spending: Analyze the total spending in each city.
+2. Monthly Trends: Observe spending trends over time.
+3. Card Type Analysis: Understand the distribution of transactions by different credit card types.
+4. Expense Type Breakdown: Examine how spending is distributed across various expense categories.
+5. Gender Comparison: Compare spending habits between male and female cardholders.
+6. High-Value Transactions: Identify transactions above a certain amount threshold.
 
 # Technology Stack
 The following technologies were used to build this project:
@@ -68,8 +68,8 @@ Demographic Data: Stores data related to the gender of cardholders.
 # Visualizations
 The dashboard visualizations include:
 
-Transaction Amount by Gender: A bar chart displaying the transaction amount split by gender.
-Card Type Distribution: A donut chart showing the percentage share of each card type.
-Expense Type Breakdown: A tree map visualizing the distribution of expenses across different categories.
-Monthly Trends: A line graph showing monthly transaction amounts.
-Top N City Analysis: A bar chart ranking cities based on transaction amounts.
+1. Transaction Amount by Gender: A bar chart displaying the transaction amount split by gender.
+2. Card Type Distribution: A donut chart showing the percentage share of each card type.
+3. Expense Type Breakdown: A tree map visualizing the distribution of expenses across different categories.
+4. Monthly Trends: A line graph showing monthly transaction amounts.
+5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
