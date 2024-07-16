@@ -16,7 +16,7 @@ Welcome to the Credit Card Spending Habits in India Documentation. This Power BI
 # Purpose
 The purpose of this Credit Card Spending Habits Dashboard is to:
 
-Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
+## Visualize Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
 Analyze Temporal Trends: Utilize line graphs to showcase spending trends over various time periods.
 Demographic Insights: Provide insights into spending habits based on gender.
 Expense Type Analysis: Visualize the distribution of different types of expenses.
@@ -36,7 +36,8 @@ Power BI: The primary tool for creating interactive dashboards.
 Microsoft Excel: Used for data preprocessing and cleaning before importing into Power BI.
 SQL Server: Employed for database management and data retrieval.
 DAX (Data Analysis Expressions): Used for creating custom calculations and measures in Power BI.
-Getting Started
+
+# Getting Started
 To get started with this dashboard, follow these steps:
 
 Clone the repository:
@@ -46,10 +47,11 @@ git clone https://github.com/RupeshSankpal/Credit-Card-Spending-Habits-India.git
 Install Power BI Desktop: Download Power BI Desktop
 Open the project file in Power BI Desktop.
 Explore the data models and visualizations.
-Dashboard Overview
+
+# Dashboard Overview
 The Credit Card Spending Habits Dashboard offers a comprehensive overview of spending metrics, allowing users to quickly grasp key insights. The main components of the dashboard include:
 
-City-wise Spending: Visualize spending patterns across various cities.
+## City-wise Spending: Visualize spending patterns across various cities.
 Monthly Trends: Line graphs depicting spending variations over time.
 Card Type Analysis: Dynamic visuals showing transaction distribution by credit card type.
 Expense Type Breakdown: Charts illustrating the distribution of various expense types.
