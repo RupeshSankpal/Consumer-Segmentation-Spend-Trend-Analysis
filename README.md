@@ -1,4 +1,4 @@
-# Credit-Card-Spending-Habits-in-India
+# Credit-Card-Spending-Analysis
  
 # Table of Contents
 Introduction
