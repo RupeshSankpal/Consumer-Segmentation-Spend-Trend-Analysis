@@ -1,4 +1,4 @@
-# Credit-Card-Spending-Analysis
+# Consumer Spending Behaviour Analytics – Credit Cards
  
 # Table of Contents
 Introduction
