@@ -1,4 +1,4 @@
-# Consumer Spending Behaviour Analytics – Credit Cards
+# CONSUMER SPENDING SEGMENTATION & TREND ANALYSIS – CREDIT CARDS
  
 # Table of Contents
 Introduction
@@ -74,7 +74,8 @@ The dashboard visualizations include:
 4. Monthly Trends: A line graph showing monthly transaction amounts.
 5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
 
-<img width="891" height="498" alt="image" src="https://github.com/user-attachments/assets/3c73b683-f170-4765-a88d-a01ea65e37f8" />
+<img width="903" height="507" alt="image" src="https://github.com/user-attachments/assets/1b3ae796-321c-4959-97e9-b1405cb1ed0d" />
+
 
 
 
