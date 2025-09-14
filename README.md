@@ -74,7 +74,8 @@ The dashboard visualizations include:
 4. Monthly Trends: A line graph showing monthly transaction amounts.
 5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
 
-<img width="903" height="507" alt="image" src="https://github.com/user-attachments/assets/1b3ae796-321c-4959-97e9-b1405cb1ed0d" />
+<img width="902" height="502" alt="image" src="https://github.com/user-attachments/assets/3ab0c1cf-829b-4cf8-84df-02dc49cf9d5c" />
+
 
 
 
