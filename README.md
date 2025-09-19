@@ -1,83 +1,89 @@
-# CONSUMER SEGMENTATION & SPEND TREND ANALYSIS – CREDIT CARDS
- 
-# Table of Contents
-Introduction
-Purpose
-Key Features
-Technology Stack
-Getting Started
-Dashboard Overview
-Data Sources
-Visualizations
+# 💳 Consumer Segmentation & Spend Trend Analysis – Credit Cards
 
-# Introduction
-Welcome to the Credit Card Spending Habits in India Documentation. This Power BI dashboard provides insights into credit card transactions made in India, offering a comprehensive look at the spending habits of Indians across the nation.
+## 📋 Table of Contents
+- [Introduction](#introduction)
+- [Purpose](#purpose)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Dashboard Overview](#dashboard-overview)
+- [Data Dictionary](#data-dictionary)
+- [Visualizations](#visualizations)
 
-# Purpose
-The purpose of this Credit Card Spending Habits Dashboard is to:
+---
 
-1. Visualise Spending Patterns: Display key metrics, including total spending and transaction counts across different cities.
-2. Analyse Temporal Trends: Utilise line graphs to showcase spending trends over various time periods.
-3. Demographic Insights: Provide insights into spending habits based on gender.
-4. Expense Type Analysis: Visualise the distribution of different types of expenses.
+## 🎯 Introduction
 
-# Key Features
-1. City-wise Spending: Analyse the total spending in each city.
-2. Monthly Trends: Observe spending trends over time.
-3. Card Type Analysis: Understand the distribution of transactions by different credit card types.
-4. Expense Type Breakdown: Examine how spending is distributed across various expense categories.
-5. Gender Comparison: Compare spending habits between male and female cardholders.
-6. High-Value Transactions: Identify transactions above a certain amount threshold.
+This Power BI dashboard provides deep insights into consumer credit card transactions, enabling detailed segmentation analysis and identification of spending trends across different demographic groups and geographic regions.
+---
 
-# Technology Stack
-The following technologies were used to build this project:
+## 🎯 Purpose
 
-Power BI: The primary tool for creating interactive dashboards.
-Microsoft Excel: Used for data preprocessing and cleaning before importing into Power BI.
-SQL Server: Employed for database management and data retrieval.
-DAX (Data Analysis Expressions): Used for creating custom calculations and measures in Power BI.
+This dashboard aims to:
 
-# Getting Started
-To get started with this dashboard, follow these steps:
+- **Visualise Spending Patterns**: Display key metrics like total spending and transaction counts across different cities.
+- **Analyse Temporal Trends**: Use time-series visualisations to track spending behaviour over various periods.
+- **Provide Demographic Insights**: Compare spending habits based on gender and other demographics.
+- **Break Down Expense Types**: Visualise how spending is distributed across categories.
+- **Support Business Decisions**: Enable data-driven strategies for financial services and marketing.
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/RupeshSankpal/Credit-Card-Spending-Habits-India.git
-Install Power BI Desktop: Download Power BI Desktop
-Open the project file in Power BI Desktop.
-Explore the data models and visualisations.
+---
 
-# Dashboard Overview
-The Credit Card Spending Habits Dashboard offers a comprehensive overview of spending metrics, allowing users to quickly grasp key insights. The main components of the dashboard include:
+## ✨ Key Features
 
-## City-wise Spending: Visualise spending patterns across various cities.
-- **Monthly Trends:** Line graphs depicting spending variations over time.
-- **Card Type Analysis:** Dynamic visuals showing transaction distribution by credit card type.
-- **Expense Type Breakdown:** Charts illustrating the distribution of various expense types.
-- **Gender Comparison:** Compare spending habits between genders.
-- **High-Value Transactions:** Identify and analyse high-value transactions.
+- **City-wise Spending**: Compare total spending across Indian cities.
+- **Monthly & Quarterly Trends**: Track spending behavior over time.
+- **Card Type Analysis**: Understand usage distribution across card types.
+- **Expense Category Breakdown**: Analyse spending across categories like travel, food, retail, etc.
+- **Gender-Based Comparison**: Compare spending habits between male and female cardholders.
+- **High-Value Transaction Identification**: Filter and analyse transactions above specific thresholds.
 
-# Data Sources
-The Credit Card Spending Habits Dashboard project utilises the following data sources:
+---
 
-- **Transaction Data:** Contains information about each credit card transaction, including city, date, card type, expense type, gender, and amount.
-- **Geographical Data:** Provides information on cities for spatial analysis.
-- **Demographic Data:** Stores data related to the gender of cardholders.
+## 🛠️ Technology Stack
 
-# Visualizations
-The dashboard visualisations include:
+- **Power BI**: Interactive dashboard design and visualization
+- **Microsoft Excel**: Data preprocessing and cleaning
+- **SQL Server**: Database management and querying
+- **DAX (Data Analysis Expressions)**: Custom measures and calculations
+- **Power Query**: Data transformation and integration
 
-1. Transaction Amount by Gender: A bar chart displaying the transaction amount split by gender.
-2. Card Type Distribution: A doughnut chart showing the percentage share of each card type.
-3. Expense Type Breakdown: A tree map visualising the distribution of expenses across different categories.
-4. Monthly Trends: A line graph showing monthly transaction amounts.
-5. Top N City Analysis: A bar chart ranking cities based on transaction amounts.
+---
+
+## 📊 Dashboard Overview
+
+The dashboard provides an intuitive and interactive interface with the following sections:
+
+- **Summary Metrics**: Total spend, transaction count, average transaction value
+- **Geographical Analysis**: City and state-wise spending heatmaps
+- **Time Trends**: Monthly/quarterly line charts with YoY comparisons
+- **Demographic Insights**: Gender, age group, and income-based segmentation
+- **Card and Expense Analysis**: Breakdown by card type and spending category
+
+---
+
+## 📊 Data Dictionary
+
+| Field Name | Description | Data Type |
+|------------|-------------|-----------|
+| **City** | Location where transaction occurred | Text |
+| **Transaction_Date** | Date of transaction | Date |
+| **Card_Type** | Type of credit card used | Text |
+| **Expense_Category** | Category of expenditure | Text |
+| **Gender** | Cardholder gender | Text |
+| **Amount** | Transaction value | Currency |
+| **Age_Group** | Demographic age category | Text |
+| **Income_Bracket** | Cardholder income level | Text |
+
+---
+
+## 📈 Visualizations
+
+- **Transaction Amount by Gender**: Bar chart comparing spending between genders
+- **Card Type Distribution**: Doughnut chart showing market share of card types
+- **Expense Category Tree Map**: Visual breakdown of spending categories
+- **Monthly Trend Line Graph**: Time-series analysis of transaction volumes and values
+- **Top Cities by Spend**: Horizontal bar chart ranking cities by total expenditure
+- **High-Value Transaction Table**: Filterable table for transactions above a threshold
+
 
 <img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/4e5fab84-feea-40ff-b6d0-de74bcfc9451" />
-
-
-
-
-
-
