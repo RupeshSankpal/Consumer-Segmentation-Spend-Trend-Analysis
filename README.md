@@ -13,7 +13,7 @@
 
 ## 🎯 Introduction
 
-This Power BI dashboard provides deep insights into consumer credit card transactions, enabling detailed segmentation analysis and identification of spending trends across different demographic groups and geographic regions.
+- This Power BI dashboard provides deep insights into consumer credit card transactions, enabling detailed segmentation analysis and identification of spending trends across different demographic groups and geographic regions.
 ---
 
 ## 🎯 Purpose
